@@ -1,8 +1,7 @@
-debian-reference-en dillo x2x
 raspberrypi-net-mods raspberrypi-ui-mods
 libav-tools
 tree
 wiringpi pigpio raspi-gpio 
 vim emacs
 htop pydf glances
-fish
+fish byobu
