@@ -1,6 +1,7 @@
 raspberrypi-net-mods raspberrypi-ui-mods
 tree
 wiringpi pigpio raspi-gpio 
+i2c-tools
 vim emacs
 htop pydf glances
 fish byobu
