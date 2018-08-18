@@ -20,6 +20,7 @@ rpi-update
 libmtp-runtime
 rsync
 htop
+time
 man-db
 policykit-1
 ssh-import-id
