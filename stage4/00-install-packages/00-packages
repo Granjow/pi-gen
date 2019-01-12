@@ -6,3 +6,4 @@ i2c-tools
 vim emacs
 htop pydf glances
 fish byobu
+nginx
