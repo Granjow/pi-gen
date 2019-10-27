@@ -3,7 +3,7 @@ libav-tools
 tree
 wiringpi pigpio raspi-gpio 
 i2c-tools
-vim emacs
+vim emacs tweak parallel
 htop pydf glances
 fish byobu
 nginx
